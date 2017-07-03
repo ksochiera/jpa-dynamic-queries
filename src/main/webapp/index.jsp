@@ -17,6 +17,5 @@
     <input type="text" name="query" placeholder="JPQL Query" style="width: 500px" />
     <input type="submit" value="Get" />
 </form>
-<a href="static">Get products ordered by price</a>
 </body>
 </html>
